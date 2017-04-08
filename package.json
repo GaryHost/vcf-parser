@@ -1,7 +1,7 @@
 {
   "name": "vcf-parser",
-  "version": "1.0.0",
-  "description": "A no bullshit vcf parser",  
+  "version": "1.0.1",
+  "description": "A no bullshit vcf parser",
   "keywords": [
     "parse",
     "vcf"
