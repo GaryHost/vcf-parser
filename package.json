@@ -1,0 +1,36 @@
+{
+  "name": "vcf-parser",
+  "version": "1.0.0",
+  "description": "A no bullshit vcf parser",  
+  "keywords": [
+    "parse",
+    "vcf"
+  ],
+  "main": "index.js",
+  "author": "thib_rdr <thib@swiip.eu>",
+  "license": "MIT",
+  "scripts": {
+    "setup:e2e": "yarn install",
+    "test:e2e": "gulp test",
+    "publish:patch": "npm version patch",
+    "publish:minor": "npm version minor",
+    "publish:major": "npm version major",
+    "postversion": "git push --tags"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "fs-promise": "^2.0.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-exit": "0.0.2",
+    "gulp-istanbul": "^0.10.0",
+    "gulp-jsbeautifier": "^1.0.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.2",
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.0.1",
+    "mocha": "^2.2.5",
+    "should": "^7.0.1"
+  }
+}

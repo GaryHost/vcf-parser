@@ -1,0 +1,3 @@
+<testsuite name="Mocha Tests" tests="1" failures="0" errors="0" skipped="0" timestamp="Sat, 08 Apr 2017 15:58:47 GMT" time="0.01">
+<testcase classname="parse vcf" name="should return an object coherent with the vcf file" time="0.005"/>
+</testsuite>

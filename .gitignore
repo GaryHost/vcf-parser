@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+dist/
+jsconfig.json
+publish_dev
+publish_prod
+.idea
+*.log
+e2e/results/

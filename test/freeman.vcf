@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.12.3//EN
+N:Freeman;Gordon;;;
+FN: Gordon  Freeman 
+ORG:Aperture Science;
+TEL;type=CELL;type=VOICE;type=pref:+1-541-754-3010
+TEL;type=IPHONE;type=CELL;type=VOICE:g.freeman@aperture.com
+ADR;type=HOME;type=pref:;;Hibiscus Court;Cupertino;;95015;USA
+END:VCARD
